@@ -22,11 +22,6 @@ void draw()
     startX=endX;
     startY=endY;
     
-<<<<<<< HEAD
-    //System.out.println("bananas");
-=======
-    System.out.println("bananas");
->>>>>>> a77b97fd0c2fdea6e85dc642d437362b01718860
   }
 }
 void mousePressed()
