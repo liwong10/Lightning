@@ -6,7 +6,7 @@ int endY=150;
 void setup()
 {
   size(500,500);
-  strokeWeight(3);
+  strokeWeight(1);
   background(255,255,210,10);
   noLoop();
   //frameRate(1);
